@@ -48,7 +48,7 @@ needed components to run the Mac Updater script.
 You must have admin rights for installations 
 in order to run this program."
 
-echo "Items that will be installed is Homebrew, Git, Speedtest CLI, check root kit 
+echo "Items that will be installed are Git and Speedtest CLI 
 "
 echo "Ensure only authorized users are logged in on this machine"
 w
@@ -61,10 +61,6 @@ echo "
 Preparing to install Speedtest CLI"
 git clone https://github.com/sivel/speedtest-cli
 echo "Download complete"
-
-echo "Downloading check root kit"
-git clone https://github.com/Magentron/chkrootkit.git
-echo "Download complete.
 
 All items are now ready. You can now run the Mac updater!"
 
