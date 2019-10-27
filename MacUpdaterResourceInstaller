@@ -62,5 +62,5 @@ Preparing to install Speedtest CLI"
 git clone https://github.com/sivel/speedtest-cli
 echo "Download complete"
 
-All items are now ready. You can now run the Mac updater!"
+echo "All items are now ready. You can now run the Mac updater!"
 
