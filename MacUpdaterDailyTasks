@@ -33,6 +33,8 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
  :::===  :::  === :::====  :::====  :::====  :::====  :::= === :::====  :::==== 
  :::     :::  === :::  === :::  === :::  === :::  === :::===== :::  === :::  ===
   =====  ===  === ===  === ===  === =======  ======== ======== ===  === ========
@@ -43,8 +45,6 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 echo "GOOD DAY DEAR USER! PREPARING TO CONDUCT THE FOLLOWING OPERATIONS:
 INTERNET SPEED TEST
-HOMEBREW UPDATE
-HOMEBREW UPGRADE
 OS UPDATE
 OS UPGRADE
 APP UPDATE
@@ -63,16 +63,6 @@ echo "CONDUCTING INTERNET SPEED TEST.
 
 speedtest-cli
 echo "SPEED TEST COMPLETE.
-"
-
-echo "CONDUCTING HOMEBREW UPDATE"
-brew update
-echo "HOMEBREW UPDATE COMPLETE.
-"
-
-echo "CONDUCTING HOMEBREW UPGRADE."
-brew upgrade
-echo "HOMEBREW UPGRADE COMPLETE.
 "
 
 echo "CHECKING FOR OS SOFTWARE UPDATES, DOWNLOADING RECOMMENDED FILES IF APPLICABLE.
