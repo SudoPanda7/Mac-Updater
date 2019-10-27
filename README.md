@@ -21,12 +21,4 @@ softwareupdate: Here we are checking for any updates related to the operating sy
 
 mas: This is where we will be updating all the applications on the computer. Instead of going to each app and checking for updates, this will do it all for you.
 
-
-
-
-
- :::===  :::  === :::====  :::====  :::====  :::====  :::= === :::====  :::==== 
- :::     :::  === :::  === :::  === :::  === :::  === :::===== :::  === :::  ===
-  =====  ===  === ===  === ===  === =======  ======== ======== ===  === ========
-     === ===  === ===  === ===  === ===      ===  === === ==== ===  === ===  ===
- ======   ======  =======   ======  ===      ===  === ===  === =======  ===  ===
+-sudoPanda
